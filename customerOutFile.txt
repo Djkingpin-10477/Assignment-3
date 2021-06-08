@@ -1,0 +1,9 @@
+====================== Customer ======================
+ID      Name      Surname     Date of birth     Age
+======================================================
+C100    Mike      Rohsopht     21 Jan 1993      28
+C130    Stu       Padassol     18 May 1987      34
+C150    Luke      Atmyass      27 Jan 1981      40
+C250    Eileen    Sideways     27 Nov 1999      21
+C26     Ima       Stewpidas    27 jan 2001      20
+C300    Ivana.B   Withew       16 July 1998     22
